@@ -1,0 +1,16 @@
+div {
+  border: 1px solid black;
+}
+
+.flex-container {
+  background-color: SkyBlue;
+  height: 150px;
+  width: 500px;
+  display: flex;
+}
+
+.box {
+  background-color: LightCoral;
+  height: 50px;
+  width: 50px;
+}
