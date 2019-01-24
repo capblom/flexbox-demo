@@ -13,4 +13,5 @@ div {
   background-color: LightCoral;
   height: 50px;
   width: 50px;
+  flex-grow: 5;
 }
